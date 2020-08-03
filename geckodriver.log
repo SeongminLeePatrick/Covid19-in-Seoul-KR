@@ -1,0 +1,131 @@
+1596432730179	geckodriver	INFO	Listening on 127.0.0.1:9741
+1596432732792	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileYS7QY5"
+1596432806169	geckodriver	INFO	Listening on 127.0.0.1:9894
+1596432809071	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile2IvNcH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596432811546	Marionette	INFO	Listening on port 9904
+1596432811699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596432856384	Marionette	INFO	Stopped listening on port 9904
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596432858848	geckodriver	INFO	Listening on 127.0.0.1:10000
+1596432861759	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile32YM97"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596432864178	Marionette	INFO	Listening on port 10016
+1596432864377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+1596440606384	Marionette	INFO	Stopped listening on port 10016
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\rust_mozprofiles1BQ3O"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596433542530	Marionette	INFO	Listening on port 11090
+1596433542606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+1596440616278	Marionette	INFO	Stopped listening on port 11090
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596440635272	geckodriver	INFO	Listening on 127.0.0.1:7536
+1596440638180	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileA5tcWv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596440640606	Marionette	INFO	Listening on port 7549
+1596440640792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 558"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:558:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 558, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 558: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1596440894725	Marionette	INFO	Stopped listening on port 7549
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596441281332	geckodriver	INFO	Listening on 127.0.0.1:8595
+1596441284238	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile61dOBE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596441286844	Marionette	INFO	Listening on port 8608
+1596441286854	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 558"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:558:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 558, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 558: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1596441603650	Marionette	INFO	Stopped listening on port 8608
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596441781378	geckodriver	INFO	Listening on 127.0.0.1:9502
+1596441784286	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiledIksum"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596441786765	Marionette	INFO	Listening on port 9517
+1596441786899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+1596441874546	Marionette	INFO	Stopped listening on port 9517
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596441907238	geckodriver	INFO	Listening on 127.0.0.1:9791
+1596441910142	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileFZHvi3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596441912694	Marionette	INFO	Listening on port 9804
+1596441912767	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+1596442072405	Marionette	INFO	Stopped listening on port 9804
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596442166972	geckodriver	INFO	Listening on 127.0.0.1:10303
+1596442169876	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileV2lcOn"
+1596442172609	Marionette	INFO	Listening on port 10314
+1596442172994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 29: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://101.livere.co.kr/js/livere8_lib.js?ver=4.3.1, line 862: unreachable code after return statement
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 29: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
